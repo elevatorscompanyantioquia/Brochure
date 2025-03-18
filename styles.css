@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #D32F2F;
+}
+
+.brochure img {
+    width: 90%;
+    max-width: 800px;
+    margin: 10px 0;
+    box-shadow: 0 0 10px rgba(0,0,0,0.3);
+    border-radius: 5px;
+}
